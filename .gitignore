@@ -1,0 +1,6 @@
+CMakeLists.txt
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+letter_predictor
