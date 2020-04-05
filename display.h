@@ -7,6 +7,6 @@
 
 #include <stdio.h>
 
-void printShrek(const char *);
+void printShrek(char);
 
 #endif //LETTER_PREDICTOR_DISPLAY_H
